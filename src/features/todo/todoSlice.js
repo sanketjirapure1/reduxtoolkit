@@ -5,6 +5,7 @@ const initialState = {
 }
 
 // pushcode 
+//reduxtoolkit
 
 export const todoSlice = createSlice({
     name: 'todo',
